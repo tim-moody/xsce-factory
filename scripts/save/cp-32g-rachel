@@ -1,0 +1,9 @@
+#!/bin/bash
+
+rsync -avP rachel/modules/ck12  /library/rachel/www/modules
+rsync -avP rachel/modules/ebooks-en  /library/rachel/www/modules
+rsync -avP rachel/modules/hesperian_health  /library/rachel/www/modules
+rsync -avP rachel/modules/infonet  /library/rachel/www/modules
+rsync -avP rachel/modules/medline_plus  /library/rachel/www/modules
+rsync -avP rachel/modules/olpc  /library/rachel/www/modules
+rsync -avP rachel/modules/practical_action  /library/rachel/www/modules

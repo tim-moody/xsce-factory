@@ -1,0 +1,9 @@
+#!/bin/bash
+
+if [ -z "$MOUNT" ]; then echo "MOUNT must be set by caller"; exit 1; fi
+
+if [ -z "$1" ]; then echo "Usage: $0 <rachel module>"; exit 1; fi
+
+espeak "Starting rsync of rachel module $1" --stdout | aplay
+rsync -avP $MOUNT/rachel/modules/$1  /library/rachel/www/modules
+espeak "Finished rsync of rachel module $1" --stdout | aplay

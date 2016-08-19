@@ -1,0 +1,4 @@
+#!/bin/bash
+
+export MOUNT=$PWD
+nohup ./cp-32g-nohup > cp-32g.out &

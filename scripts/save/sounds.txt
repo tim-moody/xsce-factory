@@ -1,0 +1,144 @@
+/versions/pristine/17/usr/share/sounds/alsa/Side_Left.wav
+/versions/pristine/17/usr/share/sounds/alsa/Front_Left.wav
+/versions/pristine/17/usr/share/sounds/alsa/Front_Right.wav
+/versions/pristine/17/usr/share/sounds/alsa/Rear_Right.wav
+/versions/pristine/17/usr/share/sounds/alsa/Rear_Left.wav
+/versions/pristine/17/usr/share/sounds/alsa/Noise.wav
+/versions/pristine/17/usr/share/sounds/alsa/Front_Center.wav
+/versions/pristine/17/usr/share/sounds/alsa/Rear_Center.wav
+/versions/pristine/17/usr/share/sounds/alsa/Side_Right.wav
+/versions/pristine/17/boot/jingle.wav
+/usr/lib/python2.7/site-packages/pygame/examples/data/car_door.wav
+/usr/lib/python2.7/site-packages/pygame/examples/data/boom.wav
+/usr/lib/python2.7/site-packages/pygame/examples/data/secosmic_lo.wav
+/usr/lib/python2.7/site-packages/pygame/examples/data/punch.wav
+/usr/lib/python2.7/site-packages/pygame/examples/data/whiff.wav
+/usr/lib/python2.7/site-packages/pygame/examples/data/house_lo.wav
+/usr/share/sounds/alsa/Side_Left.wav
+/usr/share/sounds/alsa/Front_Left.wav
+/usr/share/sounds/alsa/Front_Right.wav
+/usr/share/sounds/alsa/Rear_Right.wav
+/usr/share/sounds/alsa/Rear_Left.wav
+/usr/share/sounds/alsa/Noise.wav
+/usr/share/sounds/alsa/Front_Center.wav
+/usr/share/sounds/alsa/Rear_Center.wav
+/usr/share/sounds/alsa/Side_Right.wav
+/boot/jingle.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Slurp.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Scream-male2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Cough-female.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Laugh-male3.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Laugh-male1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Laugh-female.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Laugh-male2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/FingerSnap.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Sneeze-male.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Sneeze-female.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Cough-male.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/BabyCry.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Scream-male1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/PartyNoise.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Footsteps-2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Scream-female.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Human/Footsteps-1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/ComputerBeeps2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/Screech.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/Zoop.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/Peculiar.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/AlienCreak1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/DirtyWhir.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/SpaceRipple.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/Whoop.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/ComputerBeeps1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/AlienCreak2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/Fairydust.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/Laser2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/Laser1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Electronic/Spiral.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Vocals/Singer1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Vocals/Join-us.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Vocals/Hey-yay-hey.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Vocals/Got-inspiration.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Vocals/Sing-me-a-song.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Vocals/Come-and-play.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Vocals/Ya.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Vocals/Oooo-badada.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Vocals/Singer2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Vocals/Doy-doy-doy.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Vocals/BeatBox1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Vocals/BeatBox2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/Xylo1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/xylo4.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/DrumSet1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/GuitarChords1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/Garden.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/Eggs.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/Techno.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/Medieval2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/HumanBeatbox2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/DrumSet2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/Techno2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/Drum.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/DripDrop.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/Medieval1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/HumanBeatbox1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/Xylo3.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/Xylo2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/DrumMachine.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/HipHop.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/Triumph.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/Cave.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/GuitarChords2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Music Loops/Jungle.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/DoorCreak.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/WaterRunning.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/Typing.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/Ripples.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/DoorClose.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/WaterDrop.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/Rattle.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/Plunge.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/MotorcyclePassing.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/Pop.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/BalloonScratch.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/CarPassing.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/Bubbles.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/SewingMachine.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Effects/BellToll.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Percussion/Gong.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Percussion/CymbalCrash.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Percussion/HandClap.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Percussion/DrumBuzz.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Percussion/RideCymbal.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Percussion/Shaker.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/Horse.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/Dog2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/Bird.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/Crickets.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/Goose.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/Kitten.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/Meow.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/HorseGallop.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/SeaLion.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/Rooster.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/Dog1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/Cat.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/Owl.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/Cricket.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/Duck.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Animal/WolfHowl.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Instruments/Trumpet1.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Instruments/SpookyString.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Instruments/Dijjeridoo.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Instruments/Chord.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Instruments/StringAccent.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Instruments/AfroString.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Instruments/GuitarStrum.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Instruments/StringPluck.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Instruments/Trumpet2.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Instruments/Tambura.wav
+/home/olpc/Activities/Scratch.activity/Media/Sounds/Instruments/Suspense.wav
+/home/olpc/Activities/Chat.activity/sounds/logout.wav
+/home/olpc/Activities/Chat.activity/sounds/login.wav
+/home/olpc/Activities/Chat.activity/sounds/alert.wav
+/home/olpc/Activities/Record.activity/gfx/photoShutter.wav

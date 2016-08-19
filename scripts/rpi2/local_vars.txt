@@ -1,0 +1,5 @@
+rpi_model: rpi2
+rtc_id: DS3231
+
+# This is a slimmed down rachel with no content
+rachel_src_url: http://xsce.org/downloads/content/rachelusb_32EN_3.1.5.zip

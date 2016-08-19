@@ -1,0 +1,3 @@
+PPID = `ps -f -p $$ | awk '{print $3}'`
+ps -lf -p $$ >/tmp/test
+ps -lf $PPID >>/tmp/test

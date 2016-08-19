@@ -1,0 +1,10 @@
+#!/bin/bash
+
+if [ -z "$MOUNT" ]; then echo "MOUNT must be set by caller"; exit 1; fi
+
+if [ -z "$1" ]; then echo "Usage: $0 <zim-name>"; exit 1; fi
+
+espeak "Starting rsync of zim file $1" --stdout | aplay
+rsync -avP $MOUNT/zims/content/$1.zim*  /library/zims/content/
+rsync -avP $MOUNT/zims/index/$1.zim.idx  /library/zims/index/
+espeak "Finished rsync of zim file $1" --stdout | aplay

@@ -1,0 +1,33 @@
+#!/bin/bash
+
+START=$(date)
+echo "Starting at $START"
+
+echo "MOUNT is $MOUNT"
+
+mkdir -p /library/rachel/www/modules
+# zim dirs already created
+
+# ZIMs
+
+scripts/rsync-zim wikipedia_en_for_schools_opt_2013
+scripts/rsync-zim wikipedia_es_all_2015-10
+scripts/rsync-zim wikispecies_en_all_2015-10
+scripts/rsync-zim wiktionary_es_all_2015-10
+
+# RACHEL
+
+scripts/rsync-rachel-mod practical_action
+scripts/rsync-rachel-mod olpc
+scripts/rsync-rachel-mod medline_plus
+scripts/rsync-rachel-mod hesperian_health
+scripts/rsync-rachel-mod ck12
+scripts/rsync-rachel-mod infonet
+scripts/rsync-rachel-mod ebooks
+
+aplay /home/olpc/Activities/Scratch.activity/Media/Sounds/Percussion/CymbalCrash.wav
+aplay /home/olpc/Activities/Scratch.activity/Media/Sounds/Percussion/Gong.wav
+espeak "Finished rsync of all content" --stdout | aplay
+
+END=$(date)
+echo "Ending at $END"

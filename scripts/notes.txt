@@ -1,0 +1,9 @@
+reset
+
+/sys/bus/usb/devices/3-4/authorized
+
+echo 0 >/sys/bus/usb/devices/3-4/authorized
+
+and disappeared from lsblk
+
+echo 1 and visible again

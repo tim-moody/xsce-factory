@@ -1,0 +1,26 @@
+xsce-rpi-max-rootfs.sh goes in /usr/sbin (needs exec bit)
+
+xsce-rpi-root-resize.service goes in /etc/systemd/system/
+
+needs to be enabled
+
+touch /.resize-rootfs to activate
+
+need to dnf install linux-firmware
+
+RTC
+
+device_tree_param=i2c1=on in /boot/config.txt
+i2cdetect -y 1 [should return 68]
+echo ds1307 0x68 > /sys/class/i2c-adapter/i2c-1/new_device [on each boot]
+
+OR
+
+just put rpi_model: rpi2 in local_vars
+and rtc_id: DS3231
+
+#xsce_admin_passw_hash:
+rpi_model: rpi2
+rtc_id: DS3231
+
+clean up leases in /var/lib/NetworkManager

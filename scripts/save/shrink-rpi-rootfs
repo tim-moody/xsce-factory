@@ -1,0 +1,7 @@
+#!/bin/bash -x
+# script to make the shrunken OS image as big as the SD card
+
+parted -s /dev/sdg rm 3
+parted -s /dev/sdg mkpart primary ext4 1301MB 3.7G (for pre-xsce)(7.5G for pre and post console
+umount /dev/sdg3
+resize2fs /dev/sdg3

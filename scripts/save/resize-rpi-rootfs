@@ -1,0 +1,20 @@
+#!/bin/bash -x
+# script to make the shrunken OS image as big as the SD card
+
+parted -s /dev/mmcblk0 resizepart 3 100%
+resize2fs /dev/mmcblk0p3
+
+# touch /.rootfs-resize
+# reboot
+
+# N.B. must first shrink fs before shrink partition
+
+# resize2fs -M minimum
+#           -P print minimum
+#           -f force
+
+# dd bs=4M if=.img of=/dev/sdx
+
+# tune2fs -l gives long list of attributes
+
+# parted -sm /dev/sde unit s print
