@@ -1,0 +1,11 @@
+--2016-08-29 15:19:52--  http://dev.worldpossible.org/mods/en-asst_medical/Logo-small.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 9043 (8.8K) [image/png]
+Saving to: ‘Logo-small.png’
+
+     0K ........                                              100% 3.82M=0.002s
+
+2016-08-29 15:19:52 (3.82 MB/s) - ‘Logo-small.png’ saved [9043/9043]
+

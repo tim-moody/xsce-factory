@@ -1,0 +1,11 @@
+--2016-08-29 15:19:52--  http://dev.worldpossible.org/mods/en-math_expression/mathexpressionlogo.jpg
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11756 (11K) [image/jpeg]
+Saving to: ‘mathexpressionlogo.jpg’
+
+     0K .......... .                                          100% 3.53M=0.003s
+
+2016-08-29 15:19:52 (3.53 MB/s) - ‘mathexpressionlogo.jpg’ saved [11756/11756]
+

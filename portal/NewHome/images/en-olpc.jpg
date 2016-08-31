@@ -1,0 +1,11 @@
+--2016-08-29 15:19:53--  http://dev.worldpossible.org/mods/en-olpc/olpclogo.jpg
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 7996 (7.8K) [image/jpeg]
+Saving to: ‘olpclogo.jpg’
+
+     0K .......                                               100% 3.56M=0.002s
+
+2016-08-29 15:19:53 (3.56 MB/s) - ‘olpclogo.jpg’ saved [7996/7996]
+

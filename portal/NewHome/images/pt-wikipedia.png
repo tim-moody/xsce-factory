@@ -1,0 +1,11 @@
+--2016-08-29 15:20:00--  http://dev.worldpossible.org/mods/pt-wikipedia/ptwiki.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 10152 (9.9K) [image/png]
+Saving to: ‘ptwiki.png’
+
+     0K .........                                             100% 3.58M=0.003s
+
+2016-08-29 15:20:00 (3.58 MB/s) - ‘ptwiki.png’ saved [10152/10152]
+

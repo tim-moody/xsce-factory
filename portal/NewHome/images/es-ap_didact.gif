@@ -1,0 +1,11 @@
+--2016-08-29 15:19:42--  http://dev.worldpossible.org/mods/es-ap_didact/pubschls.gif
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 5497 (5.4K) [image/gif]
+Saving to: ‘pubschls.gif’
+
+     0K .....                                                 100% 5.38M=0.001s
+
+2016-08-29 15:19:42 (5.38 MB/s) - ‘pubschls.gif’ saved [5497/5497]
+

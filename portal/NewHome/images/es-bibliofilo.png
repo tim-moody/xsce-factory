@@ -1,0 +1,11 @@
+--2016-08-29 15:19:42--  http://dev.worldpossible.org/mods/es-bibliofilo/logo.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 23354 (23K) [image/png]
+Saving to: ‘logo.png’
+
+     0K .......... .......... ..                              100%  254K=0.09s
+
+2016-08-29 15:19:42 (254 KB/s) - ‘logo.png’ saved [23354/23354]
+

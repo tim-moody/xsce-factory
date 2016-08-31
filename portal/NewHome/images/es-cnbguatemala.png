@@ -1,0 +1,11 @@
+--2016-08-29 15:19:44--  http://dev.worldpossible.org/mods/es-cnbguatemala/logo_cnb.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8374 (8.2K) [image/png]
+Saving to: ‘logo_cnb.png’
+
+     0K ........                                              100% 4.08M=0.002s
+
+2016-08-29 15:19:45 (4.08 MB/s) - ‘logo_cnb.png’ saved [8374/8374]
+

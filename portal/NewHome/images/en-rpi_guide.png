@@ -1,0 +1,11 @@
+--2016-08-29 15:19:55--  http://dev.worldpossible.org/mods/en-rpi_guide/rachel-logo-rpi.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14746 (14K) [image/png]
+Saving to: ‘rachel-logo-rpi.png’
+
+     0K .......... ....                                       100%  166K=0.09s
+
+2016-08-29 15:19:55 (166 KB/s) - ‘rachel-logo-rpi.png’ saved [14746/14746]
+

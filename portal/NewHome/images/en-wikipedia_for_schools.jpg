@@ -1,0 +1,11 @@
+--2016-08-29 15:19:59--  http://dev.worldpossible.org/mods/en-wikipedia_for_schools/wfs_logo_smooth.jpg
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 31908 (31K) [image/jpeg]
+Saving to: ‘wfs_logo_smooth.jpg’
+
+     0K .......... .......... .......... .                    100%  342K=0.09s
+
+2016-08-29 15:19:59 (342 KB/s) - ‘wfs_logo_smooth.jpg’ saved [31908/31908]
+

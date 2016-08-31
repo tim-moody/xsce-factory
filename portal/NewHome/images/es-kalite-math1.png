@@ -1,0 +1,12 @@
+--2016-08-29 15:19:50--  http://dev.worldpossible.org/mods/es-kalite-math1/ka.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 101359 (99K) [image/png]
+Saving to: ‘ka.png.4’
+
+     0K .......... .......... .......... .......... .......... 50%  281K 0s
+    50K .......... .......... .......... .......... ........  100%  575K=0.3s
+
+2016-08-29 15:19:51 (376 KB/s) - ‘ka.png.4’ saved [101359/101359]
+

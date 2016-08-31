@@ -1,0 +1,11 @@
+--2016-08-29 15:19:46--  http://dev.worldpossible.org/mods/es-GCF2015/gcfaprendelibre-logo.jpg
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 16178 (16K) [image/jpeg]
+Saving to: ‘gcfaprendelibre-logo.jpg’
+
+     0K .......... .....                                      100%  177K=0.09s
+
+2016-08-29 15:19:47 (177 KB/s) - ‘gcfaprendelibre-logo.jpg’ saved [16178/16178]
+

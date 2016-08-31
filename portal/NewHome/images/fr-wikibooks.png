@@ -1,0 +1,11 @@
+--2016-08-29 15:19:57--  http://dev.worldpossible.org/mods/fr-wikibooks/wikibooks.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 6598 (6.4K) [image/png]
+Saving to: ‘wikibooks.png’
+
+     0K ......                                                100% 3.56M=0.002s
+
+2016-08-29 15:19:58 (3.56 MB/s) - ‘wikibooks.png’ saved [6598/6598]
+

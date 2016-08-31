@@ -1,0 +1,10 @@
+https://stuff.mit.edu/~holt/olpc/XO-1.5-128G-en-RC0/ contains...
+
+   SEE_ABOVE_XO-1_DIR_FOR_MORE (e.g. credits.html, ck12, practical_action)
+
+   index-no-tabs.html  for /var/www/html/home/index.html
+   index-some-tabs.html  for /var/www/html/home/
+
+   xo-common.css  for /var/www/html/common/css/
+   home.css (contains "margin-bottom: 32px;" for MIT Scratch section)  for /var/www/html/common/css/
+   home-ugly-indentation.css  for /var/www/html/common/css/

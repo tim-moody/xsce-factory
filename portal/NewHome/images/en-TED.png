@@ -1,0 +1,11 @@
+--2016-08-29 15:19:56--  http://dev.worldpossible.org/mods/en-TED/ted.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1482 (1.4K) [image/png]
+Saving to: ‘ted.png’
+
+     0K .                                                     100%  181M=0s
+
+2016-08-29 15:19:56 (181 MB/s) - ‘ted.png’ saved [1482/1482]
+

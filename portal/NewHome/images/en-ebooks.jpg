@@ -1,0 +1,11 @@
+--2016-08-29 15:19:47--  http://dev.worldpossible.org/mods/en-ebooks/coolbooksmall.jpg
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8423 (8.2K) [image/jpeg]
+Saving to: ‘coolbooksmall.jpg.1’
+
+     0K ........                                              100% 3.87M=0.002s
+
+2016-08-29 15:19:47 (3.87 MB/s) - ‘coolbooksmall.jpg.1’ saved [8423/8423]
+

@@ -1,0 +1,11 @@
+--2016-08-29 15:19:54--  http://dev.worldpossible.org/mods/en-PhET/phet-logo-48x48.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 997 [image/png]
+Saving to: ‘phet-logo-48x48.png’
+
+     0K                                                       100%  130M=0s
+
+2016-08-29 15:19:54 (130 MB/s) - ‘phet-logo-48x48.png’ saved [997/997]
+

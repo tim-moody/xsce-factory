@@ -1,0 +1,11 @@
+--2016-08-29 15:20:00--  http://dev.worldpossible.org/mods/es-wikisource/wikisource.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8350 (8.2K) [image/png]
+Saving to: ‘wikisource.png.1’
+
+     0K ........                                              100% 3.36M=0.002s
+
+2016-08-29 15:20:00 (3.36 MB/s) - ‘wikisource.png.1’ saved [8350/8350]
+

@@ -1,0 +1,13 @@
+http://stackoverflow.com/questions/179713/how-to-change-the-href-for-a-hyperlink-using-jquery
+
+$("a[href='http://www.google.com/']").attr('href', 'http://www.live.com/')
+
+take rachel-index.php, renamed for module and remove down to <!-- Links to specific parts of your content
+
+may not exist.  if not look for ul or table
+
+search and replace <a href="<?php echo $dir ?> with absolute path
+
+http://stackoverflow.com/questions/1368264/how-to-extract-the-hostname-portion-of-a-url-in-javascript
+
+window.location.hostname

@@ -1,0 +1,11 @@
+--2016-08-29 15:20:02--  http://dev.worldpossible.org/mods/fr-wikivoyage/wikivoyage.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4428 (4.3K) [image/png]
+Saving to: ‘wikivoyage.png.1’
+
+     0K ....                                                  100% 5.56M=0.001s
+
+2016-08-29 15:20:02 (5.56 MB/s) - ‘wikivoyage.png.1’ saved [4428/4428]
+

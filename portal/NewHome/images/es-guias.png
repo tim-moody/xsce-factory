@@ -1,0 +1,13 @@
+--2016-08-29 15:19:47--  http://dev.worldpossible.org/mods/es-guias/logo.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 103787 (101K) [image/png]
+Saving to: ‘logo.png.8’
+
+     0K .......... .......... .......... .......... .......... 49%  286K 0s
+    50K .......... .......... .......... .......... .......... 98%  590K 0s
+   100K .                                                     100% 2583G=0.3s
+
+2016-08-29 15:19:48 (391 KB/s) - ‘logo.png.8’ saved [103787/103787]
+

@@ -1,0 +1,11 @@
+--2016-08-29 15:19:53--  http://dev.worldpossible.org/mods/en-medline_plus/medlinepluslogo.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 4345 (4.2K) [image/png]
+Saving to: ‘medlinepluslogo.png.1’
+
+     0K ....                                                  100% 5.82M=0.001s
+
+2016-08-29 15:19:53 (5.82 MB/s) - ‘medlinepluslogo.png.1’ saved [4345/4345]
+

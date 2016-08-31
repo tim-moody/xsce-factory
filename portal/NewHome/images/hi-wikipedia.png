@@ -1,0 +1,11 @@
+--2016-08-29 15:20:00--  http://dev.worldpossible.org/mods/hi-wikipedia/hiwiki.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 16955 (17K) [image/png]
+Saving to: ‘hiwiki.png’
+
+     0K .......... ......                                     100%  189K=0.09s
+
+2016-08-29 15:20:00 (189 KB/s) - ‘hiwiki.png’ saved [16955/16955]
+

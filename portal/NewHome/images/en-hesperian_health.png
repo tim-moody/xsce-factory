@@ -1,0 +1,11 @@
+--2016-08-29 15:19:48--  http://dev.worldpossible.org/mods/en-hesperian_health/hesperianlogo.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 14928 (15K) [image/png]
+Saving to: ‘hesperianlogo.png’
+
+     0K .......... ....                                       100%  165K=0.09s
+
+2016-08-29 15:19:48 (165 KB/s) - ‘hesperianlogo.png’ saved [14928/14928]
+

@@ -1,0 +1,11 @@
+--2016-08-29 15:19:57--  http://dev.worldpossible.org/mods/es-vedoque/logo.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15710 (15K) [image/png]
+Saving to: ‘logo.png.10’
+
+     0K .......... .....                                      100%  176K=0.09s
+
+2016-08-29 15:19:57 (176 KB/s) - ‘logo.png.10’ saved [15710/15710]
+

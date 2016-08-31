@@ -1,0 +1,11 @@
+--2016-08-29 15:19:44--  http://dev.worldpossible.org/mods/en-ck12/ck12logo.jpg
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8559 (8.4K) [image/jpeg]
+Saving to: ‘ck12logo.jpg’
+
+     0K ........                                              100% 3.62M=0.002s
+
+2016-08-29 15:19:44 (3.62 MB/s) - ‘ck12logo.jpg’ saved [8559/8559]
+

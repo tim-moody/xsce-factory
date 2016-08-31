@@ -1,0 +1,11 @@
+--2016-08-29 15:19:55--  http://dev.worldpossible.org/mods/en-saylor/saylorlogo.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 11851 (12K) [image/png]
+Saving to: ‘saylorlogo.png’
+
+     0K .......... .                                          100% 3.50M=0.003s
+
+2016-08-29 15:19:55 (3.50 MB/s) - ‘saylorlogo.png’ saved [11851/11851]
+

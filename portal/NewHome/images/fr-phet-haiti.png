@@ -1,0 +1,11 @@
+--2016-08-29 15:19:54--  http://dev.worldpossible.org/mods/fr-phet-haiti/haiti.mit.edu/files/january-2013-workshop/fizik-physics/images/phet-logo.png
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 39723 (39K) [image/png]
+Saving to: ‘phet-logo.png’
+
+     0K .......... .......... .......... ........             100%  402K=0.1s
+
+2016-08-29 15:19:54 (402 KB/s) - ‘phet-logo.png’ saved [39723/39723]
+

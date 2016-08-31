@@ -1,0 +1,12 @@
+--2016-08-29 15:19:41--  http://dev.worldpossible.org/mods/en-afristory/af.jpg
+Resolving dev.worldpossible.org (dev.worldpossible.org)... 46.235.224.189
+Connecting to dev.worldpossible.org (dev.worldpossible.org)|46.235.224.189|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 91735 (90K) [image/jpeg]
+Saving to: ‘af.jpg.1’
+
+     0K .......... .......... .......... .......... .......... 55%  273K 0s
+    50K .......... .......... .......... .........            100% 3.03M=0.2s
+
+2016-08-29 15:19:41 (458 KB/s) - ‘af.jpg.1’ saved [91735/91735]
+
