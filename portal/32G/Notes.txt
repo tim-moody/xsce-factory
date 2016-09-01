@@ -1,4 +1,0 @@
-demo to xo1
-
-* http://schoolserver.xsce.org:3000 to http://localhost
-* rachel/modules to rachel/www/modules 
