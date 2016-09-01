@@ -32,7 +32,7 @@ for module in rachel_catalog:
 
     logo = module['logo_url']
     logo_ext = logo.split('/')[-1].split('.')[-1]
-    cmdstr = " wget " + module['logo_url'] + " -o images/" + module['moddir'] + "." + logo_ext
+    cmdstr = " wget " + module['logo_url'] + " -O images/" + module['moddir'] + "." + logo_ext
 
     outp = subproc_cmd(cmdstr)
     print outp
