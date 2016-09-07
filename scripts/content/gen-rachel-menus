@@ -16,6 +16,7 @@ import os.path
 import sys
 import urllib2
 import time
+import codecs
 
 rachel_catalog_url = "http://dev.worldpossible.org/cgi/json_api_v1.pl"
 response = urllib2.urlopen(rachel_catalog_url)
@@ -23,8 +24,6 @@ rachel_catalog = json.loads(response.read())
 response.close()
 
 for module in rachel_catalog:
-    #print module
-    html_file = module['moddir'] + '.html'
     onemod = module
     onemod['intended_use'] = 'html'
     onemod['menu_item_name'] = module['moddir']
@@ -39,14 +38,10 @@ for module in rachel_catalog:
         json.dump(onemod, fp)
 
 
-
-
-
-
-
-
-
-
+for module in rachel_catalog:
+    if module['module_id'] == '54':
+        desc = module['description']
+        print desc
 
 
 
