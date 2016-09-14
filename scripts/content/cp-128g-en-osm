@@ -30,7 +30,7 @@ rsync -av $SRC/knowledge/modules/openstreetmap/mod_tile64/default/11 $DEST/libra
 rsync -av $SRC/knowledge/modules/openstreetmap/mod_tile64/default/12 $DEST/library/knowledge/modules/openstreetmap/mod_tile64/default
 
 IIAB=/usr/lib/python2.7/site-packages/iiab
-cp osm-fixes/etc.iiab.conf $DEST/etc/iiab.conf
-cp -f osm-fixes/map_search.py $IIAB
-cp -f osm-fixes/map.html $IIAB/static/
-cp -f osm-fixes/l.control.geosearch.js $IIAB/static/lib/leaflet/geosearch/
+cp ../osm-fixes/etc.iiab.conf $DEST/etc/iiab.conf
+cp -f ../osm-fixes/map_search.py $IIAB
+cp -f ../osm-fixes/map.html $IIAB/static/
+cp -f ../osm-fixes/l.control.geosearch.js $IIAB/static/lib/leaflet/geosearch/
