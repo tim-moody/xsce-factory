@@ -1,0 +1,8 @@
+#!/bin/bash
+
+IIAB=/usr/lib/python2.7/site-packages/iiab
+
+cp etc.iiab.conf /etc/iiab.conf
+cp -f map_search.py $IIAB
+cp -f map.html $IIAB/static/
+cp -f l.control.geosearch.js $IIAB/static/lib/leaflet/geosearch/
