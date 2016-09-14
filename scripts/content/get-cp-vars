@@ -1,10 +1,10 @@
 # Source and Destination for content copying
 # May be overridden by passing argument to cp scripts
 
-SRC=/library/IIAB-2
-DEST=/mnt/dest-sd/versions/run/19
-#ZIMSRC=$SRC
-ZIMSRC=/library
+SRC=/media/usb1/IIAB-2
+DEST=""
+ZIMSRC=$SRC
+#ZIMSRC=/library
 
 if [ ! -d $SRC ];then
   echo "Source directory $SRC not found."
