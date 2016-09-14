@@ -29,4 +29,4 @@ rsync -av $SRC/knowledge/modules/openstreetmap/mod_tile64/default/10 $DEST/libra
 rsync -av $SRC/knowledge/modules/openstreetmap/mod_tile64/default/11 $DEST/library/knowledge/modules/openstreetmap/mod_tile64/default
 rsync -av $SRC/knowledge/modules/openstreetmap/mod_tile64/default/12 $DEST/library/knowledge/modules/openstreetmap/mod_tile64/default
 
-cp $SRC/scripts/etc.iiab.conf $DEST/etc/iiab.conf
+cp $SRC/scripts/osm-fixes/etc.iiab.conf $DEST/etc/iiab.conf
