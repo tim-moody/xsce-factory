@@ -1,4 +1,5 @@
 #!/bin/bash
+# copy patches to osm portion of IIAB
 
 if [ -d "/usr/lib/python2.7/site-packages/iiab" ]; then
   IIAB=/usr/lib/python2.7/site-packages/iiab
