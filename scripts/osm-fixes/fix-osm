@@ -3,7 +3,7 @@
 if [ -d "/usr/lib/python2.7/site-packages/iiab" ]; then
   IIAB=/usr/lib/python2.7/site-packages/iiab
 elif [ -d "/usr/local/lib/python2.7/dist-packages/iiab" ]; then
-  IIAB=/usr/lib/python2.7/dist-packages/iiab
+  IIAB=/usr/local/lib/python2.7/dist-packages/iiab
 else
   echo "IIAB not found."
   exit 1
