@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm -f /curation/XSCE-Content/IIAB-2/zims/content/$1.zim*
+
+rm -rf /curation/XSCE-Content/IIAB-2/zims/index/$1.zim.idx
